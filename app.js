@@ -2,7 +2,7 @@ import * as THREE from 'three';
 import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
 import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
 import {MeshoptDecoder} from 'three/addons/libs/meshopt_decoder.module.js';
-const $=id=>document.getElementById(id),cat=await fetch('catalog.json').then(r=>r.json());let current,epoch=0,guard=false,ready=false,cutY=2,paintPending=false;
+const $=id=>document.getElementById(id),cat=await fetch('catalog.json?v=en-20261012-2', {cache:'no-cache'}).then(r=>r.json());let current,epoch=0,guard=false,ready=false,cutY=2,paintPending=false;
 const clip=new THREE.Plane(new THREE.Vector3(0,-1,0),2),floorClip=new THREE.Plane(new THREE.Vector3(0,1,0),-2.2),panes=[];
 const loader=new GLTFLoader().setMeshoptDecoder(MeshoptDecoder);const cache=new Map();
 for(const id of ['left','right']){const el=$(id),scene=new THREE.Scene();scene.background=new THREE.Color('#111a27');const renderer=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});renderer.setPixelRatio(Math.min(devicePixelRatio,1.7));renderer.localClippingEnabled=true;renderer.outputColorSpace=THREE.SRGBColorSpace;renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=.95;el.prepend(renderer.domElement);const camera=new THREE.PerspectiveCamera(48,1,.015,300);const controls=new OrbitControls(camera,renderer.domElement);controls.enableDamping=false;controls.minDistance=.03;controls.maxDistance=120;scene.add(new THREE.HemisphereLight(0xffffff,0x7e91aa,1.4));const sun=new THREE.DirectionalLight(0xfff5e8,1.7);sun.position.set(5,10,7);scene.add(sun);scene.add(new THREE.AmbientLight(0xffffff,.25));panes.push({el,scene,renderer,camera,controls,root:null,meshes:0});}
