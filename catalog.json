@@ -3,7 +3,7 @@
   "scenes": [
     {
       "id": "ryo-main",
-      "title": "自宅 · 主階",
+      "title": "Ryo’s home · Main floor",
       "scans": [
         {
           "url": "assets/scan-310cf3622835.glb",
@@ -447,7 +447,7 @@
     },
     {
       "id": "ryo-lower",
-      "title": "自宅 · 下階",
+      "title": "Ryo’s home · Lower floor",
       "scans": [
         {
           "url": "assets/scan-c8c04f4396aa.glb",
@@ -891,7 +891,7 @@
     },
     {
       "id": "ryo-upper",
-      "title": "自宅 · 上階",
+      "title": "Ryo’s home · Upper floor",
       "scans": [
         {
           "url": "assets/scan-c8c04f4396aa.glb",
@@ -987,7 +987,7 @@
     },
     {
       "id": "ziru-home",
-      "title": "Ziruの家",
+      "title": "Ziru’s home",
       "scans": [
         {
           "url": "assets/scan-0733e192069c.glb",
@@ -2243,7 +2243,7 @@
     },
     {
       "id": "lab",
-      "title": "ラボ",
+      "title": "LAB",
       "scans": [
         {
           "url": "assets/scan-9547869250e5.glb",
@@ -3122,7 +3122,7 @@
     },
     {
       "id": "lab-corridor",
-      "title": "ラボ · 廊下（別候補）",
+      "title": "LAB · Corridor (separate candidate)",
       "scans": [
         {
           "url": "assets/scan-d61e56e54003.glb",
