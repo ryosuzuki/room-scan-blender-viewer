@@ -1,0 +1,545 @@
+{
+  "pass": true,
+  "base": "https://ryosuzuki.github.io/room-scan-blender-viewer/",
+  "assets": 107,
+  "timestamp": "2026-10-12T16:08:10.820Z",
+  "catalogMatches": true,
+  "runtimeMatches": true,
+  "rows": [
+    {
+      "url": "assets/model-d3f84d02576b.glb",
+      "status": 200,
+      "bytes": 708680
+    },
+    {
+      "url": "assets/model-06b3d7fa871c.glb",
+      "status": 200,
+      "bytes": 5012920
+    },
+    {
+      "url": "assets/scan-310cf3622835.glb",
+      "status": 200,
+      "bytes": 3616672
+    },
+    {
+      "url": "assets/model-3f829301f723.glb",
+      "status": 200,
+      "bytes": 4981232
+    },
+    {
+      "url": "assets/model-7d94ebdce4aa.glb",
+      "status": 200,
+      "bytes": 4682700
+    },
+    {
+      "url": "assets/model-ed67da984c02.glb",
+      "status": 200,
+      "bytes": 4642036
+    },
+    {
+      "url": "assets/model-c4165b537e2b.glb",
+      "status": 200,
+      "bytes": 4735456
+    },
+    {
+      "url": "assets/model-0321b4a61916.glb",
+      "status": 200,
+      "bytes": 4730776
+    },
+    {
+      "url": "assets/model-8886ba96701a.glb",
+      "status": 200,
+      "bytes": 4894680
+    },
+    {
+      "url": "assets/model-a11c579aa607.glb",
+      "status": 200,
+      "bytes": 4643216
+    },
+    {
+      "url": "assets/model-b5b30f1a925a.glb",
+      "status": 200,
+      "bytes": 669332
+    },
+    {
+      "url": "assets/model-bf5d11821731.glb",
+      "status": 200,
+      "bytes": 4910148
+    },
+    {
+      "url": "assets/model-2c0fe2c2d47c.glb",
+      "status": 200,
+      "bytes": 4811508
+    },
+    {
+      "url": "assets/model-837041271e0d.glb",
+      "status": 200,
+      "bytes": 4873672
+    },
+    {
+      "url": "assets/model-229c73655840.glb",
+      "status": 200,
+      "bytes": 4724096
+    },
+    {
+      "url": "assets/scan-c8c04f4396aa.glb",
+      "status": 200,
+      "bytes": 2989824
+    },
+    {
+      "url": "assets/model-d1284b719d89.glb",
+      "status": 200,
+      "bytes": 1344064
+    },
+    {
+      "url": "assets/model-5699b0fdb6c8.glb",
+      "status": 200,
+      "bytes": 1642932
+    },
+    {
+      "url": "assets/model-e3d0bce9ff08.glb",
+      "status": 200,
+      "bytes": 224100
+    },
+    {
+      "url": "assets/model-98a157fc8bb9.glb",
+      "status": 200,
+      "bytes": 1011980
+    },
+    {
+      "url": "assets/model-c4f186c8f360.glb",
+      "status": 200,
+      "bytes": 182140
+    },
+    {
+      "url": "assets/model-2653920fc7e2.glb",
+      "status": 200,
+      "bytes": 1037788
+    },
+    {
+      "url": "assets/model-7d72bae53ea7.glb",
+      "status": 200,
+      "bytes": 1496688
+    },
+    {
+      "url": "assets/model-0a76e7368e13.glb",
+      "status": 200,
+      "bytes": 1123564
+    },
+    {
+      "url": "assets/model-28d8dd1e8dfe.glb",
+      "status": 200,
+      "bytes": 1589704
+    },
+    {
+      "url": "assets/model-dc64b08ed37c.glb",
+      "status": 200,
+      "bytes": 1259092
+    },
+    {
+      "url": "assets/model-9e96c2d08f5e.glb",
+      "status": 200,
+      "bytes": 901480
+    },
+    {
+      "url": "assets/model-9d3fa03768f8.glb",
+      "status": 200,
+      "bytes": 1547920
+    },
+    {
+      "url": "assets/model-3f384a0c84d6.glb",
+      "status": 200,
+      "bytes": 1537680
+    },
+    {
+      "url": "assets/model-62ee649da3da.glb",
+      "status": 200,
+      "bytes": 878668
+    },
+    {
+      "url": "assets/model-d8302b15994e.glb",
+      "status": 200,
+      "bytes": 1532632
+    },
+    {
+      "url": "assets/scan-0733e192069c.glb",
+      "status": 200,
+      "bytes": 2401068
+    },
+    {
+      "url": "assets/model-a9b7cd230436.glb",
+      "status": 200,
+      "bytes": 897716
+    },
+    {
+      "url": "assets/scan-29f7f6d66abf.glb",
+      "status": 200,
+      "bytes": 888948
+    },
+    {
+      "url": "assets/scan-3a8d7fe09caa.glb",
+      "status": 200,
+      "bytes": 1534092
+    },
+    {
+      "url": "assets/scan-4ea98e0050ef.glb",
+      "status": 200,
+      "bytes": 933544
+    },
+    {
+      "url": "assets/scan-be65803f258c.glb",
+      "status": 200,
+      "bytes": 332036
+    },
+    {
+      "url": "assets/scan-49b0238bd9fb.glb",
+      "status": 200,
+      "bytes": 1308032
+    },
+    {
+      "url": "assets/scan-89bdb6d879c0.glb",
+      "status": 200,
+      "bytes": 896616
+    },
+    {
+      "url": "assets/scan-f89a218a8523.glb",
+      "status": 200,
+      "bytes": 1571656
+    },
+    {
+      "url": "assets/scan-2f40ab387a78.glb",
+      "status": 200,
+      "bytes": 1023896
+    },
+    {
+      "url": "assets/model-0f71c69f3140.glb",
+      "status": 200,
+      "bytes": 235692
+    },
+    {
+      "url": "assets/model-b11cc1b910cc.glb",
+      "status": 200,
+      "bytes": 239052
+    },
+    {
+      "url": "assets/model-3ab5d91a87c1.glb",
+      "status": 200,
+      "bytes": 189360
+    },
+    {
+      "url": "assets/model-01033cd8eaa2.glb",
+      "status": 200,
+      "bytes": 508860
+    },
+    {
+      "url": "assets/model-31c439c0038f.glb",
+      "status": 200,
+      "bytes": 620788
+    },
+    {
+      "url": "assets/model-3b73241886b2.glb",
+      "status": 200,
+      "bytes": 7256572
+    },
+    {
+      "url": "assets/model-be450640f050.glb",
+      "status": 200,
+      "bytes": 287948
+    },
+    {
+      "url": "assets/model-3db565540b90.glb",
+      "status": 200,
+      "bytes": 53356
+    },
+    {
+      "url": "assets/model-e7231b3d7147.glb",
+      "status": 200,
+      "bytes": 94312
+    },
+    {
+      "url": "assets/model-94c8e0046518.glb",
+      "status": 200,
+      "bytes": 244968
+    },
+    {
+      "url": "assets/model-10f89bfc77bf.glb",
+      "status": 200,
+      "bytes": 878664
+    },
+    {
+      "url": "assets/model-c152ac06d546.glb",
+      "status": 200,
+      "bytes": 389888
+    },
+    {
+      "url": "assets/model-4f1703a085f4.glb",
+      "status": 200,
+      "bytes": 942528
+    },
+    {
+      "url": "assets/model-0f902a6fcf9e.glb",
+      "status": 200,
+      "bytes": 125124
+    },
+    {
+      "url": "assets/model-fa48a07ebc3c.glb",
+      "status": 200,
+      "bytes": 6324
+    },
+    {
+      "url": "assets/model-061243ddf9fa.glb",
+      "status": 200,
+      "bytes": 86632
+    },
+    {
+      "url": "assets/model-a0fd21ddaa06.glb",
+      "status": 200,
+      "bytes": 693988
+    },
+    {
+      "url": "assets/model-e4eb657ddc4c.glb",
+      "status": 200,
+      "bytes": 509008
+    },
+    {
+      "url": "assets/model-068b1f88995c.glb",
+      "status": 200,
+      "bytes": 46172
+    },
+    {
+      "url": "assets/model-b371ebdad5d7.glb",
+      "status": 200,
+      "bytes": 263596
+    },
+    {
+      "url": "assets/model-a17abd8369af.glb",
+      "status": 200,
+      "bytes": 7098412
+    },
+    {
+      "url": "assets/model-b386539b89ff.glb",
+      "status": 200,
+      "bytes": 1651440
+    },
+    {
+      "url": "assets/model-c79487eb4664.glb",
+      "status": 200,
+      "bytes": 482828
+    },
+    {
+      "url": "assets/model-767b88752b1f.glb",
+      "status": 200,
+      "bytes": 866936
+    },
+    {
+      "url": "assets/model-fad88eb16f50.glb",
+      "status": 200,
+      "bytes": 40184
+    },
+    {
+      "url": "assets/model-8c8cb46c4947.glb",
+      "status": 200,
+      "bytes": 67948
+    },
+    {
+      "url": "assets/model-bc624138fc39.glb",
+      "status": 200,
+      "bytes": 770792
+    },
+    {
+      "url": "assets/model-fb5713a9a9f2.glb",
+      "status": 200,
+      "bytes": 891200
+    },
+    {
+      "url": "assets/model-35bf54b940d9.glb",
+      "status": 200,
+      "bytes": 679264
+    },
+    {
+      "url": "assets/model-72b837a90a12.glb",
+      "status": 200,
+      "bytes": 82312
+    },
+    {
+      "url": "assets/model-27370833cc40.glb",
+      "status": 200,
+      "bytes": 283384
+    },
+    {
+      "url": "assets/model-86976fcce589.glb",
+      "status": 200,
+      "bytes": 104080
+    },
+    {
+      "url": "assets/model-84770cc23016.glb",
+      "status": 200,
+      "bytes": 461088
+    },
+    {
+      "url": "assets/model-26261cb42e44.glb",
+      "status": 200,
+      "bytes": 275092
+    },
+    {
+      "url": "assets/scan-65cb051c0f18.glb",
+      "status": 200,
+      "bytes": 1489096
+    },
+    {
+      "url": "assets/scan-8d8a4bfd5736.glb",
+      "status": 200,
+      "bytes": 1499384
+    },
+    {
+      "url": "assets/model-1f67650c7030.glb",
+      "status": 200,
+      "bytes": 7786688
+    },
+    {
+      "url": "assets/scan-0f58cc9c78a5.glb",
+      "status": 200,
+      "bytes": 1535488
+    },
+    {
+      "url": "assets/scan-d9c97c94c38a.glb",
+      "status": 200,
+      "bytes": 1579408
+    },
+    {
+      "url": "assets/model-28e3d8de07bd.glb",
+      "status": 200,
+      "bytes": 4788072
+    },
+    {
+      "url": "assets/model-7570dc105b43.glb",
+      "status": 200,
+      "bytes": 8814968
+    },
+    {
+      "url": "assets/scan-9547869250e5.glb",
+      "status": 200,
+      "bytes": 26437408
+    },
+    {
+      "url": "assets/model-44dd6b1cb642.glb",
+      "status": 200,
+      "bytes": 7519720
+    },
+    {
+      "url": "assets/model-6d30576598fd.glb",
+      "status": 200,
+      "bytes": 6302192
+    },
+    {
+      "url": "assets/model-5af3bd9a2259.glb",
+      "status": 200,
+      "bytes": 5507452
+    },
+    {
+      "url": "assets/model-93ae3245968c.glb",
+      "status": 200,
+      "bytes": 5703548
+    },
+    {
+      "url": "assets/model-ff2e30f8dfe3.glb",
+      "status": 200,
+      "bytes": 4582984
+    },
+    {
+      "url": "assets/model-6f6fa69aa90d.glb",
+      "status": 200,
+      "bytes": 7491956
+    },
+    {
+      "url": "assets/model-f3b1bcdff21c.glb",
+      "status": 200,
+      "bytes": 5094924
+    },
+    {
+      "url": "assets/model-7815a3bbdeb1.glb",
+      "status": 200,
+      "bytes": 8689648
+    },
+    {
+      "url": "assets/model-e80189d39e87.glb",
+      "status": 200,
+      "bytes": 5223480
+    },
+    {
+      "url": "assets/model-1adcfcc31ee3.glb",
+      "status": 200,
+      "bytes": 8946740
+    },
+    {
+      "url": "assets/model-8211234bbacc.glb",
+      "status": 200,
+      "bytes": 8952872
+    },
+    {
+      "url": "assets/model-fdb450dc8212.glb",
+      "status": 200,
+      "bytes": 7482520
+    },
+    {
+      "url": "assets/model-80212ed44608.glb",
+      "status": 200,
+      "bytes": 3508568
+    },
+    {
+      "url": "assets/model-37668babee23.glb",
+      "status": 200,
+      "bytes": 6987524
+    },
+    {
+      "url": "assets/model-626fca299bbb.glb",
+      "status": 200,
+      "bytes": 6936120
+    },
+    {
+      "url": "assets/model-8822ead74044.glb",
+      "status": 200,
+      "bytes": 8641332
+    },
+    {
+      "url": "assets/model-82f0cf0482d4.glb",
+      "status": 200,
+      "bytes": 812300
+    },
+    {
+      "url": "assets/model-cf2c4c6cd111.glb",
+      "status": 200,
+      "bytes": 8738728
+    },
+    {
+      "url": "assets/model-86913327cd0f.glb",
+      "status": 200,
+      "bytes": 4464964
+    },
+    {
+      "url": "assets/scan-d61e56e54003.glb",
+      "status": 200,
+      "bytes": 1373952
+    },
+    {
+      "url": "assets/model-86074bddc607.glb",
+      "status": 200,
+      "bytes": 5313920
+    },
+    {
+      "url": "assets/model-a4682896266f.glb",
+      "status": 200,
+      "bytes": 200396
+    },
+    {
+      "url": "assets/model-c9e2d8798824.glb",
+      "status": 200,
+      "bytes": 3246264
+    },
+    {
+      "url": "assets/model-940ae4ecf086.glb",
+      "status": 200,
+      "bytes": 9141244
+    }
+  ]
+}
